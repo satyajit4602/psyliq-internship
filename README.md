@@ -3,6 +3,7 @@
 #**Task 1: HR data analysis**
 The dataset provided by psyliq consists of 14 columns and contains over 4000 entries.
 The tool used :
+<pr>
 **Microsoft Excel** for cleaning, filtering, pivot tables, and graphs to solve assessment.The data was organized and analyzed using Excel's powerful features, allowing for a comprehensive and visually appealing presentation of the assessment results. The use of pivot tables and graphs provided valuable insights into the data, making it easier to identify trends and patterns. Overall, Microsoft Excel proved to be an essential tool for effectively managing and interpreting the assessment data.
 **PowerBI** is used to generate insights by using DAX to solve problems.PowerBI allows users to create interactive visualizations and reports, making it easier to communicate findings and share insights with others. By leveraging its robust data modeling capabilities, PowerBI enables users to analyze large datasets and uncover valuable patterns and trends. Additionally, the platform's integration with various data sources and its ability to handle real-time data make it a powerful tool for decision-making and strategic planning.
 
